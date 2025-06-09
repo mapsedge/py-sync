@@ -1,7 +1,7 @@
 # py-sync
 
 # Disclaimer
-This software is provided "as-is," without any warranty of any kind. The authors are not responsible for any damages or issues that may arise from its use. Use at your own risk.
+This software is provided "as-is," without any warranty of any kind. The author disclaims all responsibility for any damages or issues that may arise from its use. Use at your own risk.
 
 # Description
 Automatically syncs a saved local file to an FTP server at the moment when it is saved
