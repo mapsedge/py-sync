@@ -1,6 +1,6 @@
 # py-sync
 
-#Disclaimer
+# Disclaimer
 This software is provided "as-is," without any warranty of any kind. The authors are not responsible for any damages or issues that may arise from its use. Use at your own risk.
 
 # Description
