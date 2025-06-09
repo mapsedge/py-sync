@@ -11,5 +11,5 @@ Using this script, I can download my site's code to a local folder, run this scr
 Drop the file into a convenient location. Change the settings to your site/uid/password/local folder. Run.  Edit locally.
 
 ### Disclaimer
-This software is provided "as-is," without warranty of any kind. The author disclaims all responsibility for any damages or issues that may arise from its use. Use at your own risk.
+This software is provided "as-is," without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The author and contributors are not responsible for any damages, data loss, or other issues that may result from the use or inability to use this software. By using this software, you agree to do so at your own risk. The user is solely responsible for ensuring that the software meets their needs and for any consequences resulting from its use.
 
